@@ -5,21 +5,21 @@ CasinoPlusPlus is a cutting-edge, technology-driven gambling platform built usin
 
 
 ## Features
-Sleek and user-friendly interface
+* Sleek and user-friendly interface
 
-Games developed with the precision and efficiency of C++
+* Games developed with the precision and efficiency of C++
 
-Virtual world where coding meets chance
+* Virtual world where coding meets chance
 
 
 ## Getting Started
-To get started with CasinoPlusPlus, follow these steps:
+1. To get started with CasinoPlusPlus, follow these steps:
 
-Clone the repository: git clone https://github.com/Ayush-Parab/CasinoPlusPlus.git
+2. Clone the repository: git clone https://github.com/Ayush-Parab/CasinoPlusPlus.git
 
-Compile and build the project using your C++ compiler of choice.
+3. Compile and build the project using your C++ compiler of choice.
 
-Run the executable file generated.
+4. Run the executable file generated.
 
 Start enjoying the thrilling fusion of programming and gambling!
 
